@@ -18,3 +18,8 @@ The following packages should be installed (installation commands) :
  <p> The Capture.py is used for creating the train and test datasets. </p>
  <p> The cnn_model.py is used to build the trained model by taking the pictures, passing them through the convolution layers and classifying them as one of the 26 alphabets. </p>
  <p> The Recognise.py is used to take the input, compare it with the trained model and then the output is shown. </p>
+ 
+ It is advisable to build ones own dataset in order to increase the learning curve, but if you need the dataset, contact me on:
+ meerarammenon@gmail.com
+ 
+ <p> This project was done under the guidance of <b> Mr. Shadab Sheikh </b> </p>
