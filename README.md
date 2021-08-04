@@ -22,4 +22,3 @@ The following packages should be installed (installation commands) :
  It is advisable to build ones own dataset in order to increase the learning curve, but if you need the dataset, contact me on:
  meerarammenon@gmail.com
  
- <p> This project was done under the guidance of <b> Mr. Shadab Sheikh </b> </p>
